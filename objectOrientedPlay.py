@@ -17,3 +17,4 @@ for i in range(10):
     workers.append(identity);
 for k in workers:
     print("The {0} worker earns {1}".format(k[0], k[1]))
+print("{0.2f} dogs came along mate".format(16536.7899))
